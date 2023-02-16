@@ -1,16 +1,13 @@
-# chart_app
+# Chart App
 
-A new Flutter project.
+<img width="3240" alt="Chart App" src="https://user-images.githubusercontent.com/74108522/219283811-0400bd7d-a624-4e57-bb43-b27cb5205fd4.png">
 
-## Getting Started
+## Dependencies
 
-This project is a starting point for a Flutter application.
+1. cupertino_icons: ^1.0.2
+2. intl: ^0.18.0
+3. syncfusion_flutter_charts: ^20.4.50
 
-A few resources to get you started if this is your first Flutter project:
+## Demo App
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://www.instagram.com/p/CotYckZDXdD/
